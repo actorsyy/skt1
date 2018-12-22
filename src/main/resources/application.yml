@@ -13,7 +13,7 @@ spring:
     prefix: classpath:/static/
     suffix: .html
 mybatis:
-  type-aliases-package: com.cssl.pojo
+  type-aliases-package: com.cssl.entity
   configuration:
     auto-mapping-behavior: full
     use-generated-keys: true
