@@ -24,4 +24,5 @@ public class User {
     private String user_img; //头像
     private String user_qq;
     private String user_zipcode; // 邮政编码
+    private String ceshi;
 }
